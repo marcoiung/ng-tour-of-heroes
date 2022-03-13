@@ -17,6 +17,10 @@ E:\__Dev\_2022>cd ng-tour-of-heroes
 
 E:\__Dev\_2022\ng-tour-of-heroes>code .
 
+* vincular o repositorio local ao remoto
+git remote add origin git@github.com:marcoiung/ng-tour-of-heroes.git
+
+
 
 VSCode 
 - https://marketplace.visualstudio.com/VsCode
@@ -36,6 +40,8 @@ VSCode
 * Peacock
 * Prettier - Code formatter
 * Settings Sync
+* Code Runner
+
 
 VSCode Settings
 * CTRL+SHIFT+P 
